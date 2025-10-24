@@ -1,11 +1,11 @@
-# login authentication system
+ login authentication system
 
-**login authentication system** is a simple and interactive web app that providing login and signup functionality and it built using**HTML,CSS,and javascript**,it provide smooth and efficient
-
-
+login authentication system is a simple and interactive web app that providing login and signup functionality and it built using**HTML,CSS,and javascript**,it provide smooth and efficient
 
 
-##⚡ Features
+
+
+⚡ Features
 
 📝 User signup with username and password
 
@@ -16,7 +16,7 @@
 🔄 Option for password logout
 
 
-##📝 Overview
+📝 Overview
 
 Users can sign up with their username and password. The system hashes passwords for security. Users can log in using their credentials. ✅
 
@@ -28,7 +28,7 @@ Frontend: HTML, CSS, JavaScript
 IDE: Visual Studio Code
 
 
-##⚙️ How It Works
+⚙️ How It Works
 
 1. 📝 Users sign up with email and password, which is hashed 🔒 for security.
 
@@ -40,7 +40,7 @@ IDE: Visual Studio Code
 
 5. 🛡️ Sessions and security measures protect user data.
 
-##🌐 Domain
+🌐 Domain
 https://harinikrishna-ai.github.io/My-demo/
 
 
